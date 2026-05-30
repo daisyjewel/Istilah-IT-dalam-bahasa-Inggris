@@ -31,7 +31,7 @@ kumpulan istilah IT dalam bahasa inggris untuk membantu komunitas IT Indonesia y
 | Term | Indonesia | Penjelasan Singkat |
 | :--- | :--- | :--- |
 | **Backend** | Latar Belakang | Bagian aplikasi yang mengelola database dan server. |
-| **Bug** | Kutu / Cacat | Kesalahan dalam kode yang menyebabkan program error. |
+| **Bug** | Cacat | Kesalahan dalam kode yang menyebabkan program error. |
 
 <br id="d">
 
